@@ -9,7 +9,7 @@ pkg install git
 git clone https://github.com/W4hyuXD/ChatBot-Memet.git
 cd ChatBot-Memet
 pip install -r requirements.txt
-python3 Run.py
+python3 chat_ai.py
 ```
 Aktifkan server API   
 <a href="https://www.meta-ai.rozhak.cfd/api/docs/#/default/post_api_chat"> Disini </a>
