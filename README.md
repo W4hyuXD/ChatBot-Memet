@@ -12,3 +12,4 @@ pip install -r requirements.txt
 python3 Run.py
 ```
 # 📸 Screenshot 
+![Image](https://github.com/user-attachments/assets/3bd1a33e-af81-4b68-b3b2-e7158afafa8e)
