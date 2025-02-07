@@ -14,7 +14,9 @@ python3 Run.py
 Aktifkan server API   
 <a href="https://www.meta-ai.rozhak.cfd/api/docs/#/default/post_api_chat"> Disini </a>
 
-# 📸 Screenshot 
+<details open>
+  <summary><strong>📸 Screenshot</strong></summary>
+ 
 - Pilih Server yang ingin di gunakan
 ![Image](https://github.com/user-attachments/assets/f399b2b7-2c7d-495a-bedf-a1a5e1e6c779)
 - Klik try it out
@@ -24,6 +26,7 @@ Aktifkan server API
 
 - Finish
 ![Image](https://github.com/user-attachments/assets/07684dc7-6f11-4eec-b612-697f3b6d8aa9)
+</details>
 
 ```python
 print("Happy Surfing")
