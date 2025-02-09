@@ -49,6 +49,11 @@ def chat_riwayat():
 
 # <-- Loop (Interaksi) -->
 if __name__ == "__main__":
+    try:
+        print("You need to enable API server first...")
+        time.sleep(1)
+        os.system('xdg-open https://www.meta-ai.rozhak.cfd/api/docs/#/default/post_api_chat');time.sleep(1.5)
+    except:pass
     clear_terminal()
     banner()
     #console.print(Panel(banner, expand=False))
