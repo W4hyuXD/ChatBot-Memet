@@ -1,6 +1,10 @@
 # 🌐 ChatBot Memet
 Sebuah tools/aplikasi chat yang dapat berinteraksi dengan sebuah ai yang di buat menggunakan bahasa pemrograman Python
 
+## ☕ Orang baik
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wahyuww567)
+
 # Instalasi 
 ```bash
 pkg upadte -y && pkg upgrade -y
