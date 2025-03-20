@@ -1,4 +1,4 @@
-# 🌐 ChatBot Memet
+![Image](https://github.com/user-attachments/assets/8014a3d1-c41d-4e79-92cb-dfd94464a7e7)
 Sebuah tools/aplikasi chat yang dapat berinteraksi dengan sebuah ai yang di buat menggunakan bahasa pemrograman Python
 
 ## ☕ Orang baik
